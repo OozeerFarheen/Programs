@@ -11,4 +11,4 @@ A simple Java desktop app to add, tick off, and manage daily tasks.
 2. Open in Eclipse or compile using:
 javac ToDoListGUI.java
 java ToDoListGUI
-![App Screenshot](Screenshot 2025-07-31 184717.png)
+![App Screenshot](/images/Screenshot 2025-07-31 184717.png)
